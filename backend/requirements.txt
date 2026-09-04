@@ -1,0 +1,27 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# Groq Integration
+langchain-groq
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Environment Variable Management
+python-dotenv
+
+#Extras
+pydantic[email]
+
+#python
+pypdf
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Vector Database
+chromadb

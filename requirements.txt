@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-experimental
+langchain-chroma
 
 # Groq Integration
 langchain-groq
@@ -14,14 +15,12 @@ google-generativeai
 # Environment Variable Management
 python-dotenv
 
-#Extras
-pydantic[email]
-
 #python
 pypdf
-fastapi
-uvicorn[standard]
 python-multipart
 
 # Vector Database
 chromadb
+
+#Deployment
+streamlit
